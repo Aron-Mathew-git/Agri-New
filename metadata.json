@@ -1,0 +1,6 @@
+{
+  "name": "DARTHI AI - Living Weather Intelligence for Farmers",
+  "description": "AI-powered precision agriculture platform for Kerala farmers providing real-time agro-met weather, KAU soil health, crop feasibility, and Agmarknet mandi intelligence.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
